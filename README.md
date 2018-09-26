@@ -18,3 +18,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Sevilla Ruiz, Borja](https://github.com/bsevrui)
 * [Torres Barba, Pedro](https://github.com/torrespedrob) 
 * [Velasco Soler, Ernesto](https://github.com/ernestovelasco24)
+* [Gómez Pino, Clara](https://github.com/ClaraGomezPino)
