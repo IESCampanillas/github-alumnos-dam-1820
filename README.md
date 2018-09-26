@@ -2,6 +2,8 @@
 
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** de la promoción 2018 - 2020
 
+
+* [Aragón Rodríguez, Rafael](https://github.com/rafaelaragon)
 * [Aranda Navarro, Juan Luis](https://github.com/JuanLuisAranda)
 * [Galera García, José Ángel](https://github.com/joseangelgalera)
 * [García Molina, Jorge](https://github.com/jorgegarcia1996)
