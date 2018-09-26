@@ -4,6 +4,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 
 * [Aranda Navarro, Juan Luis](https://github.com/JuanLuisAranda)
 * [Galera García, José Ángel](https://github.com/joseangelgalera)
+* [García Molina, Jorge](https://github.com/jorgegarcia1996)
 * [Gómez Martín, Jose María](https://github.com/josemariagomez)
 * [Haller Ríos, Lino](https://github.com/LinoHallerRios)
 * [Jiménez Montilla, Adrián](https://github.com/AdrianJimenezMontilla)
