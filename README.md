@@ -4,3 +4,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 
 * [Aranda Navarro, Juan Luis](https://github.com/JuanLuisAranda)
 * [Jimenez Montilla, Adrián](https://github.com/AdrianJimenezMontilla)
+* [Robles Bastidas, José](https://github.com/Jose-Robles)
