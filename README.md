@@ -2,5 +2,5 @@
 
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** de la promoción 2018 - 2020
 
-* [Apellidos, Nombre](url del perfil de GitHub)
+* [Aranda Navarro, Juan Luis](https://github.com/JuanLuisAranda)
  
