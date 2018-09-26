@@ -8,3 +8,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Robles Bastidas, José](https://github.com/Jose-Robles)
 * [Pacheco Matas, Rubén](https://github.com/rubenpachecomatas)
 * [Pérez Molina, Iván](https://github.com/ivanperezmolina)
+* [Haller Ríos, Lino](https://github.com/LinoHallerRios)
