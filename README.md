@@ -7,7 +7,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Aranda Navarro, Juan Luis](https://github.com/JuanLuisAranda)
 * [Campos Vega, Álvaro](https://github.com/AlvaroCamposVega)
 * [Cardoso Canillas, Samuel](https://github.com/samuelcardoso21)
-* [del Pino Heredia, Laura] (https://github.com/lauradelpino24)
+* [del Pino Heredia, Laura](https://github.com/lauradelpino24)
 * [Galera García, José Ángel](https://github.com/joseangelgalera)
 * [García Molina, Jorge](https://github.com/jorgegarcia1996)
 * [Gómez Martín, Jose María](https://github.com/josemariagomez)
