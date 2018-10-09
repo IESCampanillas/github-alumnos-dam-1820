@@ -11,6 +11,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Galera García, José Ángel](https://github.com/joseangelgalera)
 * [García Molina, Jorge](https://github.com/jorgegarcia1996)
 * [Gómez Martín, Jose María](https://github.com/josemariagomez)
+* [Gómez Pino, Clara](https://github.com/ClaraGomezPino)
 * [Haller Ríos, Lino](https://github.com/LinoHallerRios)
 * [Jiménez Montilla, Adrián](https://github.com/AdrianJimenezMontilla)
 * [Jiménez Quintana, Jose Daniel](https://github.com/danieljimenezquintana)
@@ -21,4 +22,3 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Sevilla Ruiz, Borja](https://github.com/bsevrui)
 * [Torres Barba, Pedro](https://github.com/torrespedrob) 
 * [Velasco Soler, Ernesto](https://github.com/ernestovelasco24)
-* [Gómez Pino, Clara](https://github.com/ClaraGomezPino)
