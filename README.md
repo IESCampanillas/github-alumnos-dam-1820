@@ -10,6 +10,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [del Pino Heredia, Laura](https://github.com/lauradelpino24)
 * [Galera García, José Ángel](https://github.com/joseangelgalera)
 * [García Molina, Jorge](https://github.com/jorgegarcia1996)
+* [García Serrano, Alejandro](https://github.com/alegarse)
 * [Gómez Martín, Jose María](https://github.com/josemariagomez)
 * [Gómez Pino, Clara](https://github.com/ClaraGomezPino)
 * [Haller Ríos, Lino](https://github.com/LinoHallerRios)
