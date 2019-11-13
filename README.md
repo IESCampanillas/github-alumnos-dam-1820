@@ -18,6 +18,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Jiménez Montilla, Adrián](https://github.com/AdrianJimenezMontilla)
 * [Jiménez Quintana, Jose Daniel](https://github.com/danieljimenezquintana)
 * [Martín Rodríguez, Raúl](https://github.com/Rau10mr)
+* [López Molina, Ángel](https://github.com/almAngel)
 * [Pacheco Matas, Rubén](https://github.com/rubenpachecomatas)
 * [Pérez Molina, Iván](https://github.com/ivanperezmolina)
 * [Robles Bastidas, José](https://github.com/Jose-Robles)
